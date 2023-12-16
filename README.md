@@ -111,7 +111,7 @@ DECODER:
 
  >DECODER:
 
- ![DECODER TIME](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/6051a363-bd47-4a3a-aa7b-ef3b7079ad5b)
+![DECODER T](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/3e3da827-615b-4ab7-a7e7-c2022bec4220)
 
 
 
