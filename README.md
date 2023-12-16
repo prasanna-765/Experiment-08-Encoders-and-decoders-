@@ -60,37 +60,61 @@ D7 = X Y Z
 
 
 ### PROGRAM 
-/*
+
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: PRASANNA A
+RegisterNumber: 23006806
+
+ENCODER:
+
+![image](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/27ff36dd-06d9-417b-b9cf-b4cc9fe0f965)
 
 
+DECODER:
 
+![DECODER CODE](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/0d8b31b5-5223-4bc8-b554-6aab74e9fa5d)
 
 
 
 ### RTL LOGIC  
 
+>ENCODER:
+
+ ![ENCODER LOGIC](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/85c1cd79-15b7-4487-b852-cf4ea65bdf59)
 
 
+ >DECODER:
 
-
+ ![DECODER LOGIC](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/566483ef-a3b8-4bba-bef7-9d8910723c7d)
 
 
 
 ### TIMING DIGRAMS  
 
+>ENCODER:
+
+![ENCODER TIME](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/ad4d334b-9582-452e-9926-22cca0340c70)
+
+
+>DECODER:
+
+ ![DECODER TIME](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/1e23e17d-fb90-4c12-a4dd-bf5cc82debac)
 
 
 
+### TRUTH TABLE :
 
-### TRUTH TABLE 
+>ENCODER:
+
+ ![ENCODER TT](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/c6126f66-2d7c-4b4d-8bc0-a83dfd48e8f0)
+
+
+ >DECODER:
+
+ ![DECODER TIME](https://github.com/prasanna-765/Experiment-08-Encoders-and-decoders-/assets/150009505/6051a363-bd47-4a3a-aa7b-ef3b7079ad5b)
 
 
 
+### RESULTS :
 
-
-
-### RESULTS 
+   Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
